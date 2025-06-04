@@ -1,4 +1,4 @@
-🌐 UPSTUDY : BEST PLATFORM TO EMPOWER SKILLS 
+# 🌐 UPSTUDY : BEST PLATFORM TO EMPOWER SKILLS 
 <hr>
 
 This project is a online course platform built using a pre-designed front-end template with added custom features and a functional backend. 
@@ -9,7 +9,7 @@ The project is a simple online course platform which was created to explore the 
 
 <br>
 
-🛠️ What I Did
+# 🛠️ What I Did
 <hr>
 Integrated a simple backend using PHP and MySQL.
 
@@ -19,7 +19,7 @@ Developed an Basic Admin Panel to view support requests and the registration of 
 
 <br>
 
-💡 Features
+# 💡 Features
 <hr>
 - Responsive, user-friendly UI
 
@@ -31,7 +31,7 @@ Developed an Basic Admin Panel to view support requests and the registration of 
 
 <br>
 
-🔐 Tech Stack
+# 🔐 Tech Stack
 <hr>
 Front-end: HTML, CSS, JavaScript (Template-based)
 
@@ -41,7 +41,7 @@ Database: MySQL
 
 <br>
 
-🧠 What I Learned
+# 🧠 What I Learned
 <hr>
 - Working with and customizing third-party templates
 
@@ -50,4 +50,4 @@ Database: MySQL
 - Storage, Handling & Retrieval of user data using MySQL database
 
 
-# This project was created with purpose of exploration and may still lack some features and can be improved upon.
+<h3> This project was created with purpose of exploration and may still lack some features and can be improved upon. </h3>
